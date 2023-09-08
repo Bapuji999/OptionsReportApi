@@ -33,3 +33,4 @@ D:\optionsReportApi\obj\Debug\net7.0\optionsReportApi.pdb
 D:\optionsReportApi\obj\Debug\net7.0\optionsReportApi.genruntimeconfig.cache
 D:\optionsReportApi\obj\Debug\net7.0\ref\optionsReportApi.dll
 D:\optionsReportApi\bin\Debug\net7.0\MRAOptions.json
+D:\optionsReportApi\bin\Debug\net7.0\MRAteplates.json
