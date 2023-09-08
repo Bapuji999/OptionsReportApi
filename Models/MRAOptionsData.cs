@@ -37,5 +37,6 @@
         public string? principalDisplay { get; set; }
         public string? principalSignature { get; set; }
         public string? editorContent { get; set; }
+        public string? optionFor { get; set; }
     }
 }
